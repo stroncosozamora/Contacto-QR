@@ -20,7 +20,7 @@ Configura en Vercel:
 WHATSAPP_1=56978088523
 WHATSAPP_1_NAME=Sebastián
 WHATSAPP_2=56948850826
-WHATSAPP_2_NAME=Asesor 2
+WHATSAPP_2_NAME=Fernanda
 WHATSAPP_MESSAGE=Hola, me gustaría tener más información.
 
 ADMIN_USER=admin
